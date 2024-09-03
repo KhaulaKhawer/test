@@ -76,7 +76,7 @@ def get_pie_chart(entered_site):
     # optionally you can return figure after both 
     # if n else statement once using the same variable
     # for both charts, rather than return separate
-    # figures for is and else
+    # figures for if and else
 
 # TASK 4:
 # Add a callback function for `site-dropdown` and `payload-slider` as inputs, `success-payload-scatter-chart` as output
